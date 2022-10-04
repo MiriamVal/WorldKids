@@ -21,3 +21,6 @@ Generar una comunidad de familias y negocios mostrando sus potenciales de sus re
 * Escucha
 * Responsabilidad
 * Respeto
+
+### VIDEO
+<iframe width="480" height="270" src="https://www.powtoon.com/embed/cRNJGWSTGLv/" frameborder="0" allowfullscreen></iframe>
